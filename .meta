@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "hystrix-dashboard": "https://github.com/RevatureRideShare/hystrix-dashboard.git",
+    "cloud-config": "https://github.com/RevatureRideShare/cloud-config.git",
+    "gateway": "https://github.com/RevatureRideShare/gateway.git",
+    "discovery": "https://github.com/RevatureRideShare/discovery.git",
+    "amq": "https://github.com/RevatureRideShare/amq.git"
+  }
+}
